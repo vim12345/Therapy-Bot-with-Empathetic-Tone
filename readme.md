@@ -5,3 +5,4 @@ This project builds a supportive, non-judgmental chatbot designed to simulate a 
 # Implementation
 We’ll use OpenAI + Gradio to create a warm, comforting conversation flow.
 # Screenshot
+![Screenshot (486)](https://github.com/user-attachments/assets/09680204-274b-43ca-9456-a4d1c3a3c15b)
